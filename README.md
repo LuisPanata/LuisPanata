@@ -27,4 +27,3 @@
 
 ---
 
-⭐ _"Sempre aprendendo, um commit por vez."_  
